@@ -1,0 +1,6 @@
+BeautifulSoup=4.12.2
+requests=2.31.0
+pandas=2.1.2
+natural language tool kit(nlkt) =3.8.1
+(punkt module)
+ 
